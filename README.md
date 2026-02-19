@@ -7,4 +7,4 @@ A Repository to hold all my achievements.
 | 1 | ChatGPT Prompt Engineering | ![image](assets/1.png)| [URL](https://learn.deeplearning.ai/accomplishments/a4f81ff4-330b-42f8-b923-91e6c2685452?usp=sharing) | 03-04-2025 | 
 | 1 | Finetuning Large Language Models | ![image](assets/2.png)| [URL](https://learn.deeplearning.ai/accomplishments/85a21e63-6cff-4afc-8a3c-d55cdc1ee283?usp=sharing) | 03-04-2025 | 
 | 1 | Agents Course - Fundamentals | ![image](assets/3.png)| [URL](https://cdn-uploads.huggingface.co/production/uploads/noauth/17hhT28UIZ15K2UPAHAP9.webp) | 04-04-2025 | 
-
+| 1 | Deep Agents Course - LangChain | ![image](assets/3.png)| [URL](https://cdn-uploads.huggingface.co/production/uploads/noauth/17hhT28UIZ15K2UPAHAP9.webp) | 04-04-2025 | 
